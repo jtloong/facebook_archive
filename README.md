@@ -2,7 +2,7 @@
 
 Facebook has the option to download an archive of all the data they have kept about you including messages, posts, and media you've uploaded. I downloaded a copy of mine and started playing around with the data.
 
-## instructions
+## Instructions
 
 1. Download your data in [your General Account Settings](https://www.facebook.com/settings?tab=account) on Facebook. At the bottom of the page there is a link that says ```Download a copy of your Facebook data```.
 2. Your data will be processed and will be sent to the email associated with your account.
